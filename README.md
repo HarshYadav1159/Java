@@ -1,2 +1,3 @@
 # Java
-Solution to Questions
+Solution to Topics:
+1.) Arrays
